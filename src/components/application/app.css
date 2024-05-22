@@ -1,0 +1,88 @@
+* {
+  margin: unset;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+.navigation {
+  grid-column: 1;
+  z-index: 1000;
+}
+.draw-comp {
+  z-index: 1;
+  margin-top: 60px;
+  margin-left: 50px;
+}
+
+.ol-control {
+  z-index: 2000;
+}
+
+.map-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/* Media Queries for responsiveness  */
+@media (min-width: 1024px) {
+  .map-container {
+    top: 55px;
+  }
+}
+
+@media (max-width: 768px) {
+  .map-container {
+    top: 50px;
+  }
+  #nav-brand {
+    display: none;
+  }
+  .draw-comp {
+    display: none;
+  }
+}
+
+/* CSS for nav styles */
+#nav-brand {
+  color: rgb(255, 79, 79);
+}
+
+#dropdown-basic {
+  color: #aba6a6;
+  margin-left: 30px;
+}
+
+#dropdown-menu > * {
+  padding: 10px;
+  text-wrap: nowrap;
+}
+
+/* CSS for fireInteractions */
+.info-box {
+  background-color: rgba(236, 236, 236, 0.82);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+/* CSS for the overview map */
+.ol-overviewmap:not(.ol-collapsed) {
+  border: 2px solid #4b4b4b;
+}
+.ol-overviewmap button {
+  width: 110px;
+  height: 30px;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.13);
+  color: #545454;
+  padding: 5px;
+}
+.ol-overviewmap button::before {
+  content: "MinMap";
+  visibility: visible;
+}
