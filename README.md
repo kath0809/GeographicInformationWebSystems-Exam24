@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/y-IGFidy)
-
 [![GitHub Pages](https://img.shields.io/badge/Exam%20Map-Deployed-blue)](https://kristiania-kws2100-2024.github.io/kws2100-exam-kath0809/)
 
 # KWS2100 EXAM
