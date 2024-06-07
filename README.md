@@ -4,11 +4,10 @@ Grade A.
 
 ~~Alone~~ / Group
 
-
-
 # KWS2100 EXAM
 
 ## Description
+
 FireHub (BrannHub) is a cutting-edge map application designed to provide vital information to the Norwegian population
 regarding
 the locations of nearby fire stations and emergency call-centers (alarmsentraler). With a focus on user-friendliness and
