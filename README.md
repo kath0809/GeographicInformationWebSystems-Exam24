@@ -2,9 +2,7 @@
 
 Grade A.
 
-Contributors:
-- Vegard Falldalen
-- Solveig Årvik
+~~Alone~~ / Group
 
 
 
