@@ -4,6 +4,8 @@ Grade A.
 
 ~~Alone~~ / Group
 
+Contributors: Vegard Falldalen, Solveig Årvik.
+
 # KWS2100 EXAM
 
 ## Description
