@@ -1,8 +1,4 @@
 /node_modules/
 /.idea/
 /dist/
-/src/layers/base/backgroundMaps.tsx/
-
-
-
 src/layers/base/backgroundMaps.tsx
