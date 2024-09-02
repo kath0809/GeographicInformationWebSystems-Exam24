@@ -1,4 +1,4 @@
-[![GitHub Pages](https://img.shields.io/badge/Exam%20Map-Deployed-blue)](https://kristiania-kws2100-2024.github.io/kws2100-exam-kath0809/)
+[![GitHub Pages](https://img.shields.io/badge/Exam%20Map-Deployed-blue)](https://kath0809.github.io/GeographicInformationWebSystems-Exam24/)
 
 Grade A.
 
